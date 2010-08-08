@@ -15,6 +15,6 @@ Gem::Specification.new do |s|
   # s.rubyforge_project = ''
   # list of 
 
-  s.files        = Dir['Readme.md', 'lib/**/*']
+  s.files        = Dir['README.md', "Rakefile", 'lib/**/*']
   s.require_path = 'lib'
 end
