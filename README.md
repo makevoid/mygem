@@ -12,9 +12,11 @@
 
 * launch irb
 
-> irb> require 'mygem'
+>irb> require 'mygem'
+
 > irb> Mygem.works? 
-> true
+
+> > true
 
 * gem push yourgem.gemspec
 
