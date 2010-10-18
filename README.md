@@ -2,7 +2,7 @@
 ## create and publish your first ruby gem
 
 
-* clone/fork the project
+* clone/fork/download the project
 * find and replace in all the files:
   * 'Mygem' with 'Yourgem' 
   * 'mygem' with 'yourgem'
