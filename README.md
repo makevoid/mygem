@@ -19,7 +19,7 @@
 
 > > true
 
-* gem push yourgem.gemspec
+* gem push yourgem-x.y.z.gem
 * gem install yourgem
 
 easy as that!
