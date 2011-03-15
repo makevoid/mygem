@@ -1,5 +1,5 @@
-require 'bundler'
-Bundler.setup :default
+# require 'bundler'
+# Bundler.setup :default
 
 namespace :mygem do
 
