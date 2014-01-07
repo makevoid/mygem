@@ -1,6 +1,5 @@
-path = File.expand_path("../lib", __FILE__)
-$:.unshift(path) unless $:.include?(path)
-require "mygem/version"
+path = File.expand_path "../", __FILE__
+require "#{path}/version"
 
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
